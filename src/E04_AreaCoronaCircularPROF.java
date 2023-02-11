@@ -40,6 +40,6 @@ public class E04_AreaCoronaCircularPROF {
 
         double area=corCircular.area();
 
-        System.out.printf("El area es %.2f\n",area);
+        System.out.printf("El area de la corona es de %.2f\n",area);
     }
 }
